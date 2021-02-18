@@ -1,0 +1,13 @@
+.bio__leg-links {
+    display:flex;
+    margin-top: 1em;
+    justify-content:space-around;
+}
+
+.bio {
+    text-align: center;
+}
+
+body {
+    background-color: beige;
+}
